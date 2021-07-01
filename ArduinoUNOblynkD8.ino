@@ -9,7 +9,7 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "d057580798ec4c96acb1b8b747c159d8";
+char auth[] = "d057580798ec4xxxxxxxxxxxxxxxxxxxxxxx";
 
 #define W5100_CS  10
 #define SDCARD_CS 4
